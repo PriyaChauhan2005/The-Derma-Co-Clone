@@ -1,0 +1,11 @@
+.probimg img {
+    width: 10vw; /* Adjust image size */
+    height: 10vw;
+    object-fit: cover; /* Ensures proper cropping */
+    border-radius: 50%; /* Makes it circular */
+    border: 2px solid #ddd; /* Optional border */
+}
+
+li{
+	color:black;
+}
